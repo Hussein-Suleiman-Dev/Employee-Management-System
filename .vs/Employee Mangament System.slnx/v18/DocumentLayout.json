@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Presenatition Layer.csproj|c:\\users\\hussein\\source\\repos\\test windows form1\\iemployeeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Presenatition Layer.csproj|solutionrelative:iemployeeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\employeepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|solutionrelative:employeepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\viewsmodels\\employee\\clsemployeedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|solutionrelative:viewsmodels\\employee\\clsemployeedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB26532-3E99-4797-B3F0-31350BC3A352}|..\\Employee Business Layer\\Employee Business Layer.csproj|c:\\users\\hussein\\source\\repos\\employee business layer\\project bll\\clsproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\viewsmodels\\projects\\clsprojectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|solutionrelative:viewsmodels\\projects\\clsprojectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB26532-3E99-4797-B3F0-31350BC3A352}|..\\Employee Business Layer\\Employee Business Layer.csproj|c:\\users\\hussein\\source\\repos\\employee business layer\\employee business layer\\bll_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\viewsmodels\\department\\mapper\\clsdepartmentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|solutionrelative:viewsmodels\\department\\mapper\\clsdepartmentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\viewsmodels\\department\\department view model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0E5B4A-F8F8-4554-9B8F-0126821D9975}|Test Windows Form1.csproj|solutionrelative:viewsmodels\\department\\department view model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB26532-3E99-4797-B3F0-31350BC3A352}|..\\Employee Business Layer\\Employee Business Layer.csproj|c:\\users\\hussein\\source\\repos\\employee business layer\\department business layer\\clsdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:15:19.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmployeeView.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\IEmployeeView.cs",
+              "RelativeDocumentMoniker": "IEmployeeView.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\IEmployeeView.cs",
+              "RelativeToolTip": "IEmployeeView.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:15:18.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:12:59.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsProjectMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\ViewsModels\\Projects\\clsProjectMapper.cs",
+              "RelativeDocumentMoniker": "ViewsModels\\Projects\\clsProjectMapper.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\ViewsModels\\Projects\\clsProjectMapper.cs",
+              "RelativeToolTip": "ViewsModels\\Projects\\clsProjectMapper.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAzwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:06:08.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsProject.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Employee Business Layer\\Project BLL\\clsProject.cs",
+              "RelativeDocumentMoniker": "..\\Employee Business Layer\\Project BLL\\clsProject.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Employee Business Layer\\Project BLL\\clsProject.cs",
+              "RelativeToolTip": "..\\Employee Business Layer\\Project BLL\\clsProject.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:07:03.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsEmployeeDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\ViewsModels\\Employee\\clsEmployeeDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewsModels\\Employee\\clsEmployeeDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\ViewsModels\\Employee\\clsEmployeeDetailsViewModel.cs",
+              "RelativeToolTip": "ViewsModels\\Employee\\clsEmployeeDetailsViewModel.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIBAwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:17:27.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeePresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\EmployeePresenter.cs",
+              "RelativeDocumentMoniker": "EmployeePresenter.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\EmployeePresenter.cs",
+              "RelativeToolTip": "EmployeePresenter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:51:12.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:12:56.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BLL_Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Employee Business Layer\\Employee Business Layer\\BLL_Employee.cs",
+              "RelativeDocumentMoniker": "..\\Employee Business Layer\\Employee Business Layer\\BLL_Employee.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Employee Business Layer\\Employee Business Layer\\BLL_Employee.cs",
+              "RelativeToolTip": "..\\Employee Business Layer\\Employee Business Layer\\BLL_Employee.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:10:36.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Employee Business Layer\\Department Business Layer\\clsDepartment.cs",
+              "RelativeDocumentMoniker": "..\\Employee Business Layer\\Department Business Layer\\clsDepartment.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Employee Business Layer\\Department Business Layer\\clsDepartment.cs",
+              "RelativeToolTip": "..\\Employee Business Layer\\Department Business Layer\\clsDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:43:25.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsDepartmentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\ViewsModels\\Department\\Mapper\\clsDepartmentMapper.cs",
+              "RelativeDocumentMoniker": "ViewsModels\\Department\\Mapper\\clsDepartmentMapper.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\ViewsModels\\Department\\Mapper\\clsDepartmentMapper.cs",
+              "RelativeToolTip": "ViewsModels\\Department\\Mapper\\clsDepartmentMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:47:45.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department view Model.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\ViewsModels\\Department\\Department view Model.cs",
+              "RelativeDocumentMoniker": "ViewsModels\\Department\\Department view Model.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Test Windows Form1\\ViewsModels\\Department\\Department view Model.cs",
+              "RelativeToolTip": "ViewsModels\\Department\\Department view Model.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:46:02.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

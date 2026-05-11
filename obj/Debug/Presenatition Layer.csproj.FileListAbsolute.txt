@@ -1,0 +1,16 @@
+C:\Users\Hussein\source\repos\Test Windows Form1\bin\Debug\Test Windows Form1.exe.config
+C:\Users\Hussein\source\repos\Test Windows Form1\bin\Debug\Test Windows Form1.exe
+C:\Users\Hussein\source\repos\Test Windows Form1\bin\Debug\Test Windows Form1.pdb
+C:\Users\Hussein\source\repos\Test Windows Form1\bin\Debug\Employee Business Layer.dll
+C:\Users\Hussein\source\repos\Test Windows Form1\bin\Debug\Employee Data Access-Layer.dll
+C:\Users\Hussein\source\repos\Test Windows Form1\bin\Debug\Employee Business Layer.pdb
+C:\Users\Hussein\source\repos\Test Windows Form1\bin\Debug\Employee Data Access-Layer.pdb
+C:\Users\Hussein\source\repos\Test Windows Form1\obj\Debug\Presenatition Layer.csproj.AssemblyReference.cache
+C:\Users\Hussein\source\repos\Test Windows Form1\obj\Debug\Test_Windows_Form1.Form1.resources
+C:\Users\Hussein\source\repos\Test Windows Form1\obj\Debug\Test_Windows_Form1.frmAddNewEmployee.resources
+C:\Users\Hussein\source\repos\Test Windows Form1\obj\Debug\Test_Windows_Form1.Properties.Resources.resources
+C:\Users\Hussein\source\repos\Test Windows Form1\obj\Debug\Presenatition Layer.csproj.GenerateResource.cache
+C:\Users\Hussein\source\repos\Test Windows Form1\obj\Debug\Presenatition Layer.csproj.CoreCompileInputs.cache
+C:\Users\Hussein\source\repos\Test Windows Form1\obj\Debug\Presenat.0F1D5C06.Up2Date
+C:\Users\Hussein\source\repos\Test Windows Form1\obj\Debug\Test Windows Form1.exe
+C:\Users\Hussein\source\repos\Test Windows Form1\obj\Debug\Test Windows Form1.pdb
