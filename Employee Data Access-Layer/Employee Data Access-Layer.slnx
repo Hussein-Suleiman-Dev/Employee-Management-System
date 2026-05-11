@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Employee Business Layer/Employee Business Layer.csproj" Id="aab26532-3e99-4797-b3f0-31350bc3a352" />
+  <Project Path="Employee Data Access-Layer.csproj" Id="c6c6963d-300a-4669-a9f7-4b43008fc03b" />
+</Solution>
